@@ -14,4 +14,3 @@ class Animal:
 dog = Animal("Maxxy", 5)
 print(dog)
 dog.display()
-
